@@ -1,10 +1,6 @@
 # Cocos2d-X Xcode 4 Extended Class Template
 
-<<<<<<< HEAD
-#### A C++ class, with implementation and header files for extending a custom Cocos2d-X file.
-=======
-### A C++ class, with implementation and header files for extending a custom Cocos2d-X file.
->>>>>>> c612d5105f06062b5611a05b59669fdb13316590
+#### A C++ class template, with implementation and header files for extending a custom Cocos2d-X file.
 
 If you have installed the official Cocos2d-X Xcode 4 templates, the folder ~/Library/Developer/Xcode/Templates/cocos2d-x/ should exist. 
 If it doesn't exist, you can create it by
